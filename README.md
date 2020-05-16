@@ -54,7 +54,7 @@ Envie uma requisição do tipo POST no formato JSON para rota com os seguintes p
 
 ```js
 {
-	"title" : "Freela", #Descrição da transação
+	"title" : "Freela",        #Descrição da transação
 	"value" : 2900,            #Valor R$
 	"type" : "income"          #entrada (income) / saida (outcome).
 }
