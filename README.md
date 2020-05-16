@@ -8,12 +8,15 @@ Primeiro projeto com Node.JS
 ## ꠵ Indice
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-Tecnologias-utilizadas)
-- [Como baixar o projeto](#-Como-baixar-o-projeto)
+- [Como baixar nosso projeto](#-Como-baixar-nosso-projeto)
 - [Rotas da aplicação](#-rotas)
 
 ## 🔖 Sobre
-
 Esse projeto de backend em **Node.JS** foi elaborado pela **ROCKETSEAT** dentro do curso de **Bootcamp** com intuito de testar as habilidade obtidas durante modulo de **Node.JS**.
+
+
+## ☕️ Desafio
+Essa será uma aplicação  que deve armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações.
 
 ---
 
